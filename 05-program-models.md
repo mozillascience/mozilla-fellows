@@ -1,6 +1,6 @@
 This section will dig more into current program implemenatations across the organization, starting with a high level look at each of the program's structures. The individual program subsections will explore this in more detail.
 
-#News, Science, Advocacy share the following model:
+##News, Science, Advocacy share the following model:
 
 ##Current Model: 
 *Duration: 10 months, full time (note: for Science, fellows may maintain 20% of their research)
