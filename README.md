@@ -6,7 +6,7 @@ The Fellowships are part of a larger strategy around leadership development that
 
 This Gitbook will serve as our main resource on the Mozilla Fellows model, and its various implementations across the organization. Have a question? Feel free to add your question to the [issue tracker](https://github.com/mozillascience/mozilla-fellows/issues) or [drop us an email](kaitlin@mozillafoundation.org). 
 
-#
+
 # License
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
