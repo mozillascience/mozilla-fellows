@@ -1,0 +1,9 @@
+# Mozilla 101
+
+This is one page
+
+To add a new page, create a new file! Using the GitHub interface, you can add new files by clicking on the + sign:
+
+![new-section](img/new-section.png)
+
+Afterwards, edit [SUMMARY.md](https://github.com/mozillascience/mozilla-fellows/edit/master/SUMMARY.md) to add your new page to the side bar.
