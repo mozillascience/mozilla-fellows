@@ -12,7 +12,7 @@ This section will dig more into current program implemenatations across the orga
 - Fellows work within non-Mozilla organizations (e.g., newsrooms, research institutions, civic organizations)
 - Deliverables: curricula, code, learning resources, community engagement / event participation.
 
-#MDN is employing a different approach, consisting of:
+##MDN is employing a different approach, consisting of:
 
 - 5-7 week training program
 - Part-time (~5-10 hours per week)
